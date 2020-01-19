@@ -4,9 +4,9 @@
 This is the official repository for the Aulick Industries Student Developer Internship Spring 2020. This repository will be maintained throughout the corse of the internship to include relevant information and student-lead projects.
 
 #### Table of Contents
-* (Student Developers)[#student-developers]
-* (Schedule)[#schedule]
-* (Important Links)[#important-links]
+* [Student Developers](#student-developers)
+* [Schedule](#schedule)
+* [Important Links](#important-links)
 
 #### Student Developers
 
