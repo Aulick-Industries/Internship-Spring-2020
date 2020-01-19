@@ -21,8 +21,8 @@ This is the official repository for the Aulick Industries Student Developer Inte
 * Weeks 3 & 4
   * Requirements Engineering
   * Tasks
-    * [Classification of Software Requirements][/Requirements_Engineering/Classification%20of%20Software%20Requirements.ipynb]
-    * [Requirements Engineering][/Requirements_Engineering/Requirements%20Engineering.ipynb]
+    * [Classification of Software Requirements](/Requirements_Engineering/Classification%20of%20Software%20Requirements.ipynb)
+    * [Requirements Engineering](/Requirements_Engineering/Requirements%20Engineering.ipynb)
 * Weeks 5 & 6
   * Wire-frames and Mockups
   * User Interaction Studies
