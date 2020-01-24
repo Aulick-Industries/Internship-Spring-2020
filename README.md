@@ -11,9 +11,9 @@ This is the official repository for the Aulick Industries Student Developer Inte
 #### Student Developers
 
 * Felipe
-  * GitHub Username: [11001101](https://github.com/11001101)
+  * GitHub Username: [felipevanwinkle](https://github.com/11001101)
 * Schyler
-  * GitHub Username: [110110010](https://github.com/110110010)
+  * GitHub Username: [schylerblake](https://github.com/110110010)
 
 #### Schedule
 * Weeks 1 & 2
