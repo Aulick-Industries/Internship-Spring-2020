@@ -1,0 +1,114 @@
+Page 1**
+
+*User and System Requirements
+
+User Requirements - effect client managers, System end-user, client engineerers they are not needed with detail just a general abstracted written requirement
+
+System Requirements - sytem end-users, client engineers, system architects, software developers They do the dirty work 
+
+*Functional & Non-Functional
+-know them
+
+*Non-functional requirements should be measurable
+-speed
+-size
+-ease of use
+-reliablility
+-robustness
+-portablility
+
+*Feasibility Report
+- before getting started with the software, you need to make a study to identify of whether the system is worth implementing and if it can be implemented under the currne th current bgudget, technical skills, shedule, and if it does contribute to the while organization objectives or not, etc.
+
+Page 2** 
+
+*Requiremnts Engineering Elicitation & Analysis
+- It's a process of interacting with customers and end-users to find out about the domain requirements, what services the sytem should provide, and the other contrains.
+
+*The requirements elicitation and analysis has 4 main process
+-We typically start by gathering the requiremntes, this coul dbe done though a gernal discussion or interviews with your stakeholders, also may involve some graphical notaion. 
+
+4 main parts
+1. Requiremnts discovery
+2.Requirements calssification and organization
+3.Requirements prioritization and negotiation
+4.Requiremnets specification
+ 
+*1. Requiremnets Discovery
+-It's the process of interacting with, and gathering the requiremnts from, the stakeholders abou the required system and the existing system (if exist) (meetings)
+
+*Use cases & scenarios
+-the use cases and scenarios are two different techniques, but, usually they are used together
+
+Page 3**
+
+*Requirements Specification
+- It's the process of writing down the user and system requiremnts into a document.
+
+*User Requirements
+-the user requiremnets for a sqystem should describe the functional and non-functional requirements so that thay aer understandable gby users who don't have technincal knowledge
+
+*System requirements
+-The system requirements on the other hand ae expanded version of the user requirements that are used by software engineers as the staring poin fo rhtey system desgin
+
+*Ways of writing requirements specification
+-natural and structured languages.
+-natural language specification
+it's a sway of writing the reqirements in normal plain text, there is no definded format by default
+
+*Structued Language Sprecification
+-It's a way of writing the reqiremnets in more formal an structured form. (tables)
+
+*Software Requirements document
+-It's an official document of what should be implemented it's also used as a contract between the system buyer and the software developers. It should include both;user and system requirements.Usually, the user requirements are defined in an introduction to the sytem requirements.
+
+page 4**
+
+*Requirements Validation
+-It's a process of ensurein gthe specified requirements mee the customer needs. It's converned with finding problems with the reqirements.
+Validity checks
+Consistency checks
+Completeness check
+Realism checks
+Realism checks
+Verifiablility checks
+
+*REquirements reviews
+-A ream of system customer; those who interact with the customer to gather requiremnts, and system developers start reading the reqirements in the document, an dinvestigate in a great detail to chck for errors, inconsistency, conflicts, and any ambiguity
+
+*Prototyping
+-already know
+
+*Test-case Generation
+_As we've just mentioned, the requirements need to be testable.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Videos I'm watching
+https://www.youtube.com/watch?v=qENBiYaAXNE
+https://www.youtube.com/watch?v=GXPFl1bQxUU
+https://www.youtube.com/watch?v=jSCUDj02YT0&list=PLUgFMzuE8lQDeixpbP3s6EyQx8PiNdeQL&index=3
+https://www.youtube.com/watch?v=vKh14PFZWy8&list=PLUgFMzuE8lQDeixpbP3s6EyQx8PiNdeQL&index=4
+
+The main progression a good project should be executed. 
+-Rquirements Engineering, Design, Implementiaion, Tesing, Deploymnet & Installation, Maintiance & Evolution
+
+
+****Requirements Engineering is all of these below. 
+This is if something were to change (in almost every situtation)
+-Requirements elicitaion, Req. analysis, Req. documentation, Req. verification & validation. 
+
+**Problems with RE
+1. Incomplete/hidden reqirements
+2. Inconsistent requirements (things conflict 4=2)
+3. Terminology (how people understand things)
+4. Unclear responsibilities (who to talk to and later reliaze you've talked to the wrong person)
+5. Communication problems
+6. Moving Targets (the customer changed their opionion about what they really wanted. They wanted those 2 instead of those 4)
+7. Techniically unfeasible requirements (literally impossible)
+8. Stakeholders don't know requirements from previous solutuion
+9. Underspecified req.
+10. Unclear, unmeasured,non-functional req.
+
+How to prevent those.
+When you have your meeting make sure to get in paper the base line requirements instead of all the glitter and have a set budget and time schedule for the project so you don't go out of business
