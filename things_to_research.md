@@ -15,9 +15,6 @@
 ### How to go about the Website
 
 * Asp.net
-  
-..*  Or 
-
-* Html 
+   
 
 
