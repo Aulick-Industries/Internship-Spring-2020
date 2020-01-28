@@ -16,8 +16,6 @@
 
 * Asp.net
   
-  Or 
-
-* Html 
+ 
 
 
