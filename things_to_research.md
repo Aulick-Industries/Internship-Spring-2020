@@ -2,7 +2,7 @@
 
 ### Make documents beautiful 
 
-*[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Markdown [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Database we'll use
 
