@@ -2,7 +2,7 @@
 
 ### Make documents beautiful 
 
-* Markdown [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Markdown [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Database we'll use
 
@@ -15,6 +15,13 @@
 ### How to go about the Website
 
 * Asp.net
+<<<<<<< HEAD
    
+=======
+  
+  Or 
+
+* Html 
+>>>>>>> 0178647948555638bb7cea7cc270f3e1afbf131d
 
 
