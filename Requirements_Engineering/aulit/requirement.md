@@ -15,6 +15,8 @@ Lead Development Intern: Felipe VanWinkle
 * 2 factor
 * Reseting password with some type of credential.
 * The user may have the ability to see past records of what they had for a certian duration.
+* The ability to create specific id tags for items.
+* The ability to enter a personal item with a unique tag to lend it to people.
 
 #### Non-Functional
 
